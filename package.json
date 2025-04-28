@@ -1,0 +1,17 @@
+{
+  "name": "pratham-backend",
+  "version": "1.0.0",
+  "description": "A Complex Project of Backend",
+  "keywords": [
+    "javascript",
+    "backend",
+    "pratham"
+  ],
+  "license": "ISC",
+  "author": "Pratham Darji",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
